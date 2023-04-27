@@ -1,0 +1,12 @@
+D:\Programs\CsharpProjects\FigureAreaLibrary\bin\Debug\net6.0\FigureAreaLibrary.deps.json
+D:\Programs\CsharpProjects\FigureAreaLibrary\bin\Debug\net6.0\FigureAreaLibrary.dll
+D:\Programs\CsharpProjects\FigureAreaLibrary\bin\Debug\net6.0\FigureAreaLibrary.pdb
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.csproj.AssemblyReference.cache
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.AssemblyInfoInputs.cache
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.AssemblyInfo.cs
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.csproj.CoreCompileInputs.cache
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.dll
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\refint\FigureAreaLibrary.dll
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.pdb
+D:\Programs\CsharpProjects\FigureAreaLibrary\obj\Debug\net6.0\ref\FigureAreaLibrary.dll
