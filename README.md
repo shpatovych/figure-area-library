@@ -1,4 +1,4 @@
-# figure-area-liberary
+# figure-area-library
 A C# library for calculating the area of various geometric figures, 
   including circle and triangle, with support for adding new figures and unit tests
 
